@@ -39,7 +39,7 @@
 		<section class="banner">
 			<div class="container">
 				<div class="banner-left">
-					<img src="img/dzul2.png">
+					<img src="IMG20200325080945.jpg">
 					<h2>Hai...<br>
 						Saya adalah seorang Mahasiswi Universitas Potensi Utama</span></h2>
 					<p>Selamat datang di website saya!</p>
